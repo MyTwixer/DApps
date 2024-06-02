@@ -22,5 +22,4 @@ contract Vault is ERC4626Fees {
         return owner;
     }
 
-
 }
